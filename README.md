@@ -1,1 +1,1 @@
-Voici mon fichier de renseignement pour les exercices de Holberton School.
+It's time to code!
